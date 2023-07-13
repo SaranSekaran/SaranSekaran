@@ -11,6 +11,6 @@ My name is Saran Somasekaran, currently pursuing MIS at Cleveland State Universi
 - Data engineering: Designing and developing robust data pipelines, ETL processes, and data warehouses using technologies such as Apache Spark, Hadoop, and AWS.
 - BI analytics: Designing and building interactive dashboards, reports, and data models to empower stakeholders with actionable insights. Experienced in BI tools like Power BI and QlikView.
 
-📧 Reach me at saranamrish@gmail.com | 💼 Connect with me on LinkedIn
+📧 Reach me at saranamrish@gmail.com | <img src='https://github.com/SaranSekaran/SaranSekaran/blob/main/icons8-linkedin-96.png' alt='linkedin' height='35'>(https://www.linkedin.com/in/https://www.linkedin.com/feed//) | 
 
 
