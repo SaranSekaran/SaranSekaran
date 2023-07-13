@@ -1,4 +1,5 @@
-### Hello [Hello](https://github.com/SaranSekaran/SaranSekaran/raw/main/wave.gif) I'm Saran Somasekaran!
+# Hi guys! <img src= "https://github.com/SaranSekaran/SaranSekaran/raw/main/wave.gif" width="50" >
+I'm Saran Somasekaran!
 
 📊 Data Analyst | 💻 Data Engineer | 📈 Business Analyst | 📊 BI Analyst
 
