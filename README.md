@@ -1,9 +1,7 @@
 # Hi guys! <img src= "https://github.com/SaranSekaran/SaranSekaran/raw/main/wave.gif" width="30" >
-My name is Saran Somasekaran, currently pursuing MIS at Cleveland State University.
+My name is Saran Somasekaran, and I'm currently pursuing a Master of Information Systems (MIS) with a specialization in Business Analytics at Cleveland State University. I'm passionate about data analysis, business analysis, data engineering, and BI analytics. I am actively seeking opportunities in these fields.
 
 📊 Data Analyst | 📈 Business Analyst | 💻 Data Engineer | 📊 BI Analyst
-
-💼 Currently seeking opportunities in roles that involve data analysis, business analysis, data engineering, and BI analytics.
 
 ### 🌟 Key Skills:
 - Data analysis and visualization: Extracting, cleaning, and analyzing data to identify patterns, trends, and insights. Proficient in tools like SQL, Python, R, and Tableau for data manipulation and visualization.
